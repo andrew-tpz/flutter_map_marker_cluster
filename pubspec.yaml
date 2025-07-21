@@ -16,7 +16,7 @@ dependencies:
   flutter_map_marker_popup:
     git:
       url: https://github.com/enricostrijks/flutter_map_marker_popup.git
-      ref: master
+      ref: fd98f68
   latlong2: ^0.9.0
 
 dev_dependencies:
